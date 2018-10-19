@@ -71,6 +71,7 @@ body {
 .lightbox img {
   display: block;
   margin: auto;
+  overflow: scroll;
 }
 
 .lightbox .caption {
